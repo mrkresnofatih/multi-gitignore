@@ -1,0 +1,3 @@
+leave-me-alone.json
+**/*.yml
+!sub-dir-1-dir-3/*.yml
